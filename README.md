@@ -30,11 +30,3 @@ Tip:换背景音乐的话,只需要把 `index_files/music.mp3` 换成你自己�
 
 ## 截图演示
 <img src="./index_files/love-tree.gif"/>
-
-## 知乎使用教程
-5分钟做一个免费的网页爱情树,快快学习发给自己的女朋友吧(微信QQ都可以查看哦)^_^ \
-https://zhuanlan.zhihu.com/p/72907840 
-
-## 结尾
-喜欢的话关注一下[霸都丶傲天](https://github.com/ajlovechina)呗~  \
-定期更新一下爱情网页模板,简历模板,知识笔记,PDF书籍,原创深度技术分享等 :heart:
